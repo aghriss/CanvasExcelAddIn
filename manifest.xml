@@ -93,9 +93,7 @@
         <bt:Url id="Functions.Script.Url" DefaultValue="https://raw.githubusercontent.com/aghriss/CanvasExcelAddIn/main/functions.js"/>
         <bt:Url id="Functions.Metadata.Url" DefaultValue="https://raw.githubusercontent.com/aghriss/CanvasExcelAddIn/main/functions.json"/>
         <bt:Url id="Functions.Page.Url" DefaultValue="https://raw.githubusercontent.com/aghriss/CanvasExcelAddIn/main/functions.html"/>
-<!--
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812"/>
--->
         <bt:Url id="Taskpane.Url" DefaultValue="https://raw.githubusercontent.com/aghriss/CanvasExcelAddIn/main/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>

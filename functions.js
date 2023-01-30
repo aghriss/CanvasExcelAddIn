@@ -29,7 +29,7 @@ function add(first, second) {
           console.log("error", error.message);
         }
       });*/
-    return first + second
+    return first + second;
 }
 
 /**
