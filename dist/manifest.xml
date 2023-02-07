@@ -41,7 +41,7 @@
             <Namespace resid="Functions.Namespace"/>
           </ExtensionPoint>
         </AllFormFactors>
-        <DesktopFormFactor>
+        <!--<DesktopFormFactor>
           <GetStarted>
             <Title resid="GetStarted.Title"/>
             <Description resid="GetStarted.Description"/>
@@ -76,7 +76,7 @@
               </Group>
             </OfficeTab>
           </ExtensionPoint>
-        </DesktopFormFactor>
+        </DesktopFormFactor>-->
       </Host>
     </Hosts>
     <Resources>
